@@ -36,7 +36,7 @@ function Jeux() {
           {
               data.map((game, index) =>
                 (
-                  <div className={`${selectedId == index ? ' text-white border-[#EDB64A]' : 'text-white' }  flex flex-grow border-2 border-white p-4 font-semibold  rounded-lg text-center items-center justify-center`} key={game.name} onClick={() => handleGameClick(index)}>
+                  <div className={`${selectedId == index ? ' text-white border-[#EDB64A]' : 'text-white' } cursor-pointer flex flex-grow border-2 border-white p-4 font-semibold  rounded-lg text-center items-center justify-center`} key={game.name} onClick={() => handleGameClick(index)}>
                     {game.name}
                   </div>
                 ))
