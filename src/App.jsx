@@ -14,7 +14,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className='w-screen h-screen bg-[url("./bg.svg")] snap-y snap-mandatory scroll-smooth overflow-y-auto no-scrollbar'>
+    <div className='w-screen h-screen bg-dark snap-y snap-mandatory scroll-smooth overflow-y-auto no-scrollbar'>
       <Home />
       <Format />
       <Calendrier />
