@@ -33,7 +33,7 @@ function Home() {
             </ul>
         </div>
         <div className='flex-3 flex items-center justify-center'>
-            <img className=' h-3/4 animate-tiltshaking' src='./img/WM.svg' alt='Wash machine'/>
+            <img className=' h-3/4 animate-tiltshaking' src='./img/shark.png' alt='Wash machine'/>
         </div>
     </div>
   )

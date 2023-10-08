@@ -9,11 +9,11 @@ let data =
 [
   { 'name' : 'LoL', 'img' : './img/Lol.png', 'PDP' : 'Tournoi 2v2 avec 2 équipes de 2 joueurs par team' , 'PO' : 'BO1 en 5v5, game normale de LoL, le perdant du 2ème jeu choisit le side.'},
   { 'name' : 'RL', 'img' : './img/RL.png', 'PDP' : 'Rondes suisses BO3', 'PO' : 'BO5 en 3v3' },
-  { 'name' : 'Valorant', 'img' : './img/Valo.png', 'PDP' : 'Rondes suisses', 'PO' : 'BO1 en 5v5'},
-  { 'name' : 'TFT', 'img' : './img/TFT.png', 'PDP' : '4 joueurs par équipes', 'PO' : '1 game en 4v4' },
+  { 'name' : 'Valorant', 'img' : './img/Valo.png', 'PDP' : 'Rondes suisses, mode SWIFTPLAY', 'PO' : 'BO1 en 5v5'},
+  { 'name' : 'TFT', 'img' : './img/TFT.png', 'PDP' : '4 joueurs par équipes, format Hexleague', 'PO' : '1 game en 4v4' },
   { 'name' : 'Fortnite', 'img' : './img/Fortnite.png', 'PDP' : 'Format à determiner', 'PO' : 'Duel Custom en 3v3' },
   { 'name' : 'SSBU', 'img' : './img/SSBU.webp', 'PDP' : 'Format Sus League, 2 joueurs minimum', 'PO' : '2 joueurs par équipe minimum, 2 x 1v1 en BO5, si besoin Decider en 2v2 en BO1' },
-  { 'name' : 'Trackmania', 'img' : './img/TM.avif', 'PDP' : 'Pas disponible en phase de poule', 'PO' : 'Format round en 5v5 sur les maps de la campagne'},
+  { 'name' : 'Trackmania', 'img' : './img/TM.avif', 'PDP' : 'Pas disponible en phase de poule', 'PO' : 'Format round en 3v3 sur les maps de la campagne'},
   { 'name' : 'Quizz', 'img' : './img/quizz.png', 'PDP' : 'Questions de culture générale, LoL, Solary, Esport...', 'PO' : 'Pas disponible en phase de play off' },
 ]
 
