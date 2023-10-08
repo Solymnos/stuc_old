@@ -31,7 +31,7 @@ function Jeux() {
   return (
     <div id='Jeux' className='h-screen snap-center flex flex-col'>
         <div className='p-5 flex flex-col w-full h-full justify-center items-center text-center gap-5'>
-          <h1 className='text-white font-bold text-8xl'>Jeux</h1>
+          <h1 className='text-white font-bold text-8xl mb-8'>Jeux</h1>
           <div className='flex flex-row w-full justify-between px-5 gap-5'>
           {
               data.map((game, index) =>

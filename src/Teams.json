@@ -1,0 +1,160 @@
+{
+    "teams" : [
+        {
+            "name" : "Solary",
+            "icon" : "./img/sly_logo.png",
+            "players" : [
+                {
+                    "name" : "Melonik",
+                    "icon" : "./img/melonik.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                },
+                {
+                    "name" : "Shlatan",
+                    "icon" : "./img/shlatan.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                },
+                {
+                    "name" : "Peng",
+                    "icon" : "./img/peng.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                },
+                {
+                    "name" : "TakeSet",
+                    "icon" : "./img/takeset.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                },
+                {
+                    "name" : "Steeelback",
+                    "icon" : "./img/steeelback.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                }
+            ]
+        },
+        {
+            "name" : "Solary7",
+            "icon" : "./img/sly_logo.png",
+            "players" : [
+                {
+                    "name" : "Melonik",
+                    "icon" : "./img/melonik.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                },
+                {
+                    "name" : "Shlatan",
+                    "icon" : "./img/shlatan.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                },
+                {
+                    "name" : "Peng",
+                    "icon" : "./img/peng.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                },
+                {
+                    "name" : "TakeSet",
+                    "icon" : "./img/takeset.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                },
+                {
+                    "name" : "Steeelback",
+                    "icon" : "./img/steeelback.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                },
+                {
+                    "name" : "Kiki",
+                    "icon" : "./img/kiki.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                },
+                {
+                    "name" : "Krakmo",
+                    "icon" : "./img/krakmo.jpg",
+                    "RLoL" : "Challenger",
+                    "LLol" : "https://lolpros.gg/player/melonik",
+                    "RRL" : "Diamant",
+                    "LRL" : "https://lolpros.gg/player/melonik",
+                    "RValorant" : "Diamant",
+                    "LValo" : "https://lolpros.gg/player/melonik",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://lolpros.gg/player/melonik"
+                }
+            ]
+        }
+    ]
+}
